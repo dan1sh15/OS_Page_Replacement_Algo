@@ -5,4 +5,4 @@
 3. Most Recently Used (MRU)
 4. Optimum Page Replacement
 
-### to execute use command g++ -o "filename" filename.cpp
+### to execute use command `g++ -o "filename" filename.cpp`
